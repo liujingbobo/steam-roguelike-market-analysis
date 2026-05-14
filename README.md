@@ -4,10 +4,11 @@ A data analysis project exploring the growth of roguelike games on Steam using P
 
 ## Project Goals
 
-- Analyze yearly roguelike game releases
-- Compare roguelike growth with other Steam tags
-- Explore Steam genre trends
-- Analyze tag popularity and market direction
+- Investigate how roguelike games evolved on Steam after 2017
+- Analyze pricing patterns and player review behavior
+- Explore the rise of hybrid roguelike subgenres such as deckbuilding and bullet hell
+- Identify major market shifts triggered by breakout games like Vampire Survivors
+- Examine how replayability-focused genres expanded in the indie market
 
 ## Tools Used
 
@@ -18,9 +19,11 @@ A data analysis project exploring the growth of roguelike games on Steam using P
 
 ## Key Findings
 
-- Roguelike releases increased rapidly after 2020
-- Survival remains the largest Steam tag
-- Deckbuilding and roguelike genres show strong growth trends
+- Roguelike releases accelerated dramatically after 2020, driven by indie-friendly development models
+- Hybrid subgenres such as Deckbuilding and Bullet Hell experienced the fastest growth
+- Most roguelikes remain priced below $10, suggesting a low-cost experimentation market
+- Lower-priced roguelikes consistently maintained strong review ratios
+- Vampire Survivors appears to have accelerated the popularity of survival-focused roguelike hybrids
 
 ## Dataset
 
