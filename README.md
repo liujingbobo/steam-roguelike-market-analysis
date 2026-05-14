@@ -24,4 +24,6 @@ A data analysis project exploring the growth of roguelike games on Steam using P
 
 ## Dataset
 
-Steam Games Dataset from Kaggle
+Steam Games Dataset from Kaggle.
+Due to file size limitations, the original dataset is not included in this repository.
+OriginalSource: https://www.kaggle.com/datasets/fronkongames/steam-games-dataset?utm_source=chatgpt.com
